@@ -1,4 +1,5 @@
-Project Title: Age and Gender Detection
+# Project Title: Age and Gender Detection
+
 Description :
 The Age and Gender Detection project is an innovative application designed to analyze facial features from images or video feeds to predict the age and gender of individuals accurately. Utilizing advanced machine learning techniques, this project aims to provide real-time demographic insights, which can be beneficial in various fields such as marketing, security, and user experience enhancement.
 
