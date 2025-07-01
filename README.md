@@ -19,5 +19,5 @@ Use Cases :
 - Security Applications: Enhancing surveillance systems to provide demographic data for crowd analysis.
 - User Experience: Personalizing content based on the detected age and gender of users.
 
-Conclusion
+Conclusion :
 The Age and Gender Detection project not only showcases the potential of machine learning in interpreting human features but also opens doors for various practical applications across multiple industries. By accurately predicting age and gender, this project aims to bridge the gap between technology and human interaction.
